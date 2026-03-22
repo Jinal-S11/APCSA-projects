@@ -1,4 +1,4 @@
-# APCSA Projects
+# MAGPIE-AP-CollegeBoard
 
 This repo contains my work from AP Computer Science A.
 
